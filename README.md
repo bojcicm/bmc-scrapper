@@ -14,7 +14,7 @@ https://sites.google.com/a/chromium.org/chromedriver/getting-started
     ```
 2. Create virtualenv in scrapper folder
     ```sh
-    $ cd scrapper
+    $ cd bmc-scrapper
     $ virtualenv venv
     $ source venv/bin/activate
     ```
